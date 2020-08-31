@@ -1,4 +1,4 @@
-package topic3;
+package src.topic3;
 //Получить случайное число и посчитать его факториал.
 
 public class taskm9 {
